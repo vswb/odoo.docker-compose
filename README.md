@@ -20,7 +20,7 @@ RUN pip install pandas
 ```
 
 ```
-docker build . -t "odoo_dev:16"
+docker build . --no-cache -t "odoo_local:16"
 ```
 
 ```
