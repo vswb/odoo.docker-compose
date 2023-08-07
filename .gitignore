@@ -4,3 +4,4 @@ etc/addons/
 etc/sessions/
 etc/filestore/
 docker-compose.yml
+.env
