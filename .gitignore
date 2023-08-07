@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 postgresql/
 etc/odoo-server.log
 etc/addons/
 etc/sessions/
 etc/filestore/
-=======
 docker-compose.yml
->>>>>>> 3d4a80f6b88fbbc2bc26559522e4d01d250e1bd3
